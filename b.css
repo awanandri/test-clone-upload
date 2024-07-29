@@ -2,7 +2,9 @@ body{
     background-color: #00ffff;
     display: flex;
     justify-content: center;
-}
+    background-image: url('aset/bgjfif.jfif');
+
+
 button{
     background-color:lemonchiffon;
     font-size: 20px;
@@ -14,3 +16,4 @@ button{
 button:hover{
     background-color: white;
 }
+
